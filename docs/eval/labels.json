@@ -1,0 +1,743 @@
+{
+  "savedAt": "2026-10-16T14:47:11.063Z",
+  "items": [
+    {
+      "id": "liquid-glass|https://liquidglassdesign.com/site.jpg",
+      "trend": "liquid glass",
+      "image": "https://liquidglassdesign.com/site.jpg",
+      "url": "https://liquidglassdesign.com/",
+      "kept": true,
+      "reason": "collage of glass UI panels and frosted tabs",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://developer.apple.com/news/images/og/design-og.jpg?2",
+      "trend": "liquid glass",
+      "image": "https://developer.apple.com/news/images/og/design-og.jpg?2",
+      "url": "https://developer.apple.com/jp/design/new-design-gallery-2026/",
+      "kept": true,
+      "reason": "Liquid Glass UI controls with translucent pills",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://developer.apple.com/design/images/lun/feature-s-new-design_2x.jpg?1",
+      "trend": "liquid glass",
+      "image": "https://developer.apple.com/design/images/lun/feature-s-new-design_2x.jpg?1",
+      "url": "https://developer.apple.com/jp/design/new-design-gallery-2026/",
+      "kept": true,
+      "reason": "Liquid Glass UI controls with translucent pills",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://developer.apple.com/design/images/lun/feature-s-resources_2x.jpg",
+      "trend": "liquid glass",
+      "image": "https://developer.apple.com/design/images/lun/feature-s-resources_2x.jpg",
+      "url": "https://developer.apple.com/jp/design/new-design-gallery-2026/",
+      "kept": true,
+      "reason": "translucent glass tab bar and buttons",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/5CD0E251-424E-490F-89CF-1E64848209A6/9910_wide_900x506_2x.jpg",
+      "trend": "liquid glass",
+      "image": "https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/5CD0E251-424E-490F-89CF-1E64848209A6/9910_wide_900x506_2x.jpg",
+      "url": "https://developer.apple.com/jp/design/new-design-gallery-2026/",
+      "kept": true,
+      "reason": "dark-mode glass controls and tab bar",
+      "label": "unsure"
+    },
+    {
+      "id": "liquid-glass|https://images.macrumors.com/t/irR8woxi1k_dlhiolNtZ7_lmFFs=/1920x/article-new/2025/06/Liquid-Glass-General-Feature.jpg",
+      "trend": "liquid glass",
+      "image": "https://images.macrumors.com/t/irR8woxi1k_dlhiolNtZ7_lmFFs=/1920x/article-new/2025/06/Liquid-Glass-General-Feature.jpg",
+      "url": "https://www.macrumors.com/2025/11/06/apple-liquid-glass-design-gallery/",
+      "kept": false,
+      "reason": "VR headset render, not a UI trend example",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://images.macrumors.com/t/lF8bORSw0DTefExl57DFkeEPGBE=/2500x0/filters:no_upscale()/article-new/2025/06/Liquid-Glass-General-Feature.jpg?lossy",
+      "trend": "liquid glass",
+      "image": "https://images.macrumors.com/t/lF8bORSw0DTefExl57DFkeEPGBE=/2500x0/filters:no_upscale()/article-new/2025/06/Liquid-Glass-General-Feature.jpg?lossy",
+      "url": "https://www.macrumors.com/2025/11/06/apple-liquid-glass-design-gallery/",
+      "kept": false,
+      "reason": "duplicate of image 5",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://images.macrumors.com/t/fp0_50k_2UDm6FBs8Q73GlEWnZk=/400x400/article-new/2026/10/Apple-HomeView-lineup-feature1.jpg",
+      "trend": "liquid glass",
+      "image": "https://images.macrumors.com/t/fp0_50k_2UDm6FBs8Q73GlEWnZk=/400x400/article-new/2026/10/Apple-HomeView-lineup-feature1.jpg",
+      "url": "https://www.macrumors.com/2025/11/06/apple-liquid-glass-design-gallery/",
+      "kept": true,
+      "reason": "Liquid Glass UI on smart display screens",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://images.macrumors.com/t/YwFjNqu3HqSVtXM_ZXOR2pcuTbo=/400x400/article-new/2026/10/Apple-TV-4K-4th-Generation-feature4.jpg",
+      "trend": "liquid glass",
+      "image": "https://images.macrumors.com/t/YwFjNqu3HqSVtXM_ZXOR2pcuTbo=/400x400/article-new/2026/10/Apple-TV-4K-4th-Generation-feature4.jpg",
+      "url": "https://www.macrumors.com/2025/11/06/apple-liquid-glass-design-gallery/",
+      "kept": true,
+      "reason": "glass tab-bar pills on Apple TV interface",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://i.ytimg.com/vi/hyFIakdwi9Y/maxresdefault.jpg",
+      "trend": "liquid glass",
+      "image": "https://i.ytimg.com/vi/hyFIakdwi9Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hyFIakdwi9Y",
+      "kept": false,
+      "reason": "conference stage photo, trend not visible",
+      "label": "unsure"
+    },
+    {
+      "id": "liquid-glass|https://jwahlmueller.com/files/images/liquidGlassIndie.png",
+      "trend": "liquid glass",
+      "image": "https://jwahlmueller.com/files/images/liquidGlassIndie.png",
+      "url": "https://jwahlmueller.com/blog/liquid-glass-indie-apps.html",
+      "kept": true,
+      "reason": "glassy text over blurred app icons",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://jwahlmueller.com/files/images/screenshot_tot.png",
+      "trend": "liquid glass",
+      "image": "https://jwahlmueller.com/files/images/screenshot_tot.png",
+      "url": "https://jwahlmueller.com/blog/liquid-glass-indie-apps.html",
+      "kept": true,
+      "reason": "translucent glass toolbar pills in app screens",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://jwahlmueller.com/files/images/screenshot_zeitgeist.png",
+      "trend": "liquid glass",
+      "image": "https://jwahlmueller.com/files/images/screenshot_zeitgeist.png",
+      "url": "https://jwahlmueller.com/blog/liquid-glass-indie-apps.html",
+      "kept": true,
+      "reason": "translucent glass UI in app screens",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://jwahlmueller.com/files/images/screenshot_overcast.png",
+      "trend": "liquid glass",
+      "image": "https://jwahlmueller.com/files/images/screenshot_overcast.png",
+      "url": "https://jwahlmueller.com/blog/liquid-glass-indie-apps.html",
+      "kept": true,
+      "reason": "glass playlist and player controls in app",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://9to5mac.com/wp-content/uploads/sites/6/2025/09/Here-are-the-things-I-love-most-about-iOS-26.jpg?quality=82&strip=all&resize=1200,628",
+      "trend": "liquid glass",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/Here-are-the-things-I-love-most-about-iOS-26.jpg?quality=82&strip=all&resize=1200,628",
+      "url": "https://9to5mac.com/2025/11/06/apple-spotlights-third-party-apps-adopting-liquid-glass-in-ios-26-and-more/",
+      "kept": true,
+      "reason": "iOS 26 badge with glass heart icon",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Here-are-the-things-I-love-most-about-iOS-26.jpg?w=1500&quality=82&strip=all&ssl=1",
+      "trend": "liquid glass",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Here-are-the-things-I-love-most-about-iOS-26.jpg?w=1500&quality=82&strip=all&ssl=1",
+      "url": "https://9to5mac.com/2025/11/06/apple-spotlights-third-party-apps-adopting-liquid-glass-in-ios-26-and-more/",
+      "kept": false,
+      "reason": "duplicate of image 14",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://9to5mac.com/wp-content/uploads/sites/6/2025/11/nomad-banner2.jpg",
+      "trend": "liquid glass",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/nomad-banner2.jpg",
+      "url": "https://9to5mac.com/2025/11/06/apple-spotlights-third-party-apps-adopting-liquid-glass-in-ios-26-and-more/",
+      "kept": false,
+      "reason": "ad banner, text-only promotion",
+      "label": "correct"
+    },
+    {
+      "id": "liquid-glass|https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-10.jpeg?w=1500&quality=82&strip=all&ssl=1",
+      "trend": "liquid glass",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-10.jpeg?w=1500&quality=82&strip=all&ssl=1",
+      "url": "https://9to5mac.com/2025/11/06/apple-spotlights-third-party-apps-adopting-liquid-glass-in-ios-26-and-more/",
+      "kept": false,
+      "reason": "foldable phone photo, no glass UI visible",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://curated.design/og.png?v=2",
+      "trend": "neo brutalism",
+      "image": "https://curated.design/og.png?v=2",
+      "url": "https://curated.design/inspiration/neobrutalism/",
+      "kept": false,
+      "reason": "plain black screen with eye icon",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://curated-images.b-cdn.net/objects/12fdc73db523614e66eb931460d2cba0479540291315f9628a7b800c95047111/b80b638dda8d14d04c97c957bb232f015d0a34ae267e78c41131d1c63c0c99aa/retina-v1/card-image-1600.webp?token=vd3Mto9BLoZZRBX32M4Cr6s87SSaukDBKNrU3cW2Fak&expires=2107520792",
+      "trend": "neo brutalism",
+      "image": "https://curated-images.b-cdn.net/objects/12fdc73db523614e66eb931460d2cba0479540291315f9628a7b800c95047111/b80b638dda8d14d04c97c957bb232f015d0a34ae267e78c41131d1c63c0c99aa/retina-v1/card-image-1600.webp?token=vd3Mto9BLoZZRBX32M4Cr6s87SSaukDBKNrU3cW2Fak&expires=2107520792",
+      "url": "https://curated.design/inspiration/neobrutalism/",
+      "kept": true,
+      "reason": "bordered retro monospace cards, raw layout",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://curated-images.b-cdn.net/objects/900e157cf0a0a59fe9870dcb41d205403c37681edf0b2b7032c76ec5a7352c88/52ac7aad0c029c83a0fde769716ba3a93c3db0deb28f0d377714cbc491855441/retina-v1/card-image-1600.webp?token=D4SDSSBuKGE2McXX2ArlBaKbqLoL2b9_7IAz5iqV5f4&expires=2107520792",
+      "trend": "neo brutalism",
+      "image": "https://curated-images.b-cdn.net/objects/900e157cf0a0a59fe9870dcb41d205403c37681edf0b2b7032c76ec5a7352c88/52ac7aad0c029c83a0fde769716ba3a93c3db0deb28f0d377714cbc491855441/retina-v1/card-image-1600.webp?token=D4SDSSBuKGE2McXX2ArlBaKbqLoL2b9_7IAz5iqV5f4&expires=2107520792",
+      "url": "https://curated.design/inspiration/neobrutalism/",
+      "kept": false,
+      "reason": "3D dark room scene, not neo brutalism",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://curated-images.b-cdn.net/objects/3b7061724a937493a03a603b1c5ce7ebcdfcf7ba386ab23a215c96c71601d2b4/0fff0e1120b799c423297f840b96b99dd844bbb419a0d974d65e1b470627dc0d/retina-v1/card-image-1600.webp?token=67hwrk6XD2J10H-zXD6Z0lm4pg5QiJLLDoVHolOGSyI&expires=2107520792",
+      "trend": "neo brutalism",
+      "image": "https://curated-images.b-cdn.net/objects/3b7061724a937493a03a603b1c5ce7ebcdfcf7ba386ab23a215c96c71601d2b4/0fff0e1120b799c423297f840b96b99dd844bbb419a0d974d65e1b470627dc0d/retina-v1/card-image-1600.webp?token=67hwrk6XD2J10H-zXD6Z0lm4pg5QiJLLDoVHolOGSyI&expires=2107520792",
+      "url": "https://curated.design/inspiration/neobrutalism/",
+      "kept": false,
+      "reason": "minimal portfolio grid, trend absent",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://mobbin.com/og_image.png?v=4.0",
+      "trend": "neo brutalism",
+      "image": "https://mobbin.com/og_image.png?v=4.0",
+      "url": "https://mobbin.com/explore/sites/styles/neo-brutalism",
+      "kept": false,
+      "reason": "marketing page with phone mockups, no trend",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.0n6zBeWzF0v3uJ_m.dexTWHtoQQwMwP1GJVbp57qT3yarCv-MqpLne8DO3mhJsC9YPCDc5ZzAbTwh-bBNZ-kAcoWELTJDEcPSY-bX2RwOc1oM3S_4I9evDhc-T-QIgNNjvC0426ALOGtz2Dqq_rjblD3O3yL1D_fwwSEEkA4PsvFbHhy5Mpe5LYclPLRap1gvkW6fviYIg2YUhCRboj5sWplguJiemGfq20es-AtKlhec8fLi_dQHNzRl4qxzTLWl4moFkiOAsxqVJzCP-qIPJF45TysbKp2yL2OP2oe0fSHAs6HNrMkSdj1E20PsddV3-S3zRqLohnb25tVCAn-8Sfixh5N5XutnRspQRTXq9dRUd9j1a8NivhfdTy5JmJtl2g7umR8m",
+      "trend": "neo brutalism",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.0n6zBeWzF0v3uJ_m.dexTWHtoQQwMwP1GJVbp57qT3yarCv-MqpLne8DO3mhJsC9YPCDc5ZzAbTwh-bBNZ-kAcoWELTJDEcPSY-bX2RwOc1oM3S_4I9evDhc-T-QIgNNjvC0426ALOGtz2Dqq_rjblD3O3yL1D_fwwSEEkA4PsvFbHhy5Mpe5LYclPLRap1gvkW6fviYIg2YUhCRboj5sWplguJiemGfq20es-AtKlhec8fLi_dQHNzRl4qxzTLWl4moFkiOAsxqVJzCP-qIPJF45TysbKp2yL2OP2oe0fSHAs6HNrMkSdj1E20PsddV3-S3zRqLohnb25tVCAn-8Sfixh5N5XutnRspQRTXq9dRUd9j1a8NivhfdTy5JmJtl2g7umR8m",
+      "url": "https://mobbin.com/explore/sites/styles/neo-brutalism",
+      "kept": false,
+      "reason": "dark gallery UI, trend not visible",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.CsLwb3NMPftyO0-v.4AhubUkUsF_Aqq-V8GtPdYeoGiQIpKTsd28z7vgsLhRtnKUWkHxJxquDpuHur2tgPXH1CtZh6HCtqT8REGhFTzDnP9WxPucUrP_vnlwgmjXQxCJ6CXuld3igZFXtjYEDGv3OrbwRz9KX5d8l3aYlB7xWMLTIAmpAyx8OsdnUWgJIUpto75Eu95h4nhU2Mf03XjBWnI7T4R5ifFkXmNY9u6vkwkXOHNA8PloKU5LemiDMgjvL6VD2xGYwLH2MvUv8RsafFTV8Kjq6m0ki6apwbkJDD1wsSirtqp5DtH4PifHL3TkD5EbMAC8cDg4qE4NgLPvpN50Um5_baHlqzsNY-ol0ocomgBWUMFFXuRNqedECRJUHW00ewAyz6ZJnUi6rLEZb9XhGKtSZvdGVIrvIiD1UsUc7aE1Z6nKBJLqvrnwf8w",
+      "trend": "neo brutalism",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.CsLwb3NMPftyO0-v.4AhubUkUsF_Aqq-V8GtPdYeoGiQIpKTsd28z7vgsLhRtnKUWkHxJxquDpuHur2tgPXH1CtZh6HCtqT8REGhFTzDnP9WxPucUrP_vnlwgmjXQxCJ6CXuld3igZFXtjYEDGv3OrbwRz9KX5d8l3aYlB7xWMLTIAmpAyx8OsdnUWgJIUpto75Eu95h4nhU2Mf03XjBWnI7T4R5ifFkXmNY9u6vkwkXOHNA8PloKU5LemiDMgjvL6VD2xGYwLH2MvUv8RsafFTV8Kjq6m0ki6apwbkJDD1wsSirtqp5DtH4PifHL3TkD5EbMAC8cDg4qE4NgLPvpN50Um5_baHlqzsNY-ol0ocomgBWUMFFXuRNqedECRJUHW00ewAyz6ZJnUi6rLEZb9XhGKtSZvdGVIrvIiD1UsUc7aE1Z6nKBJLqvrnwf8w",
+      "url": "https://mobbin.com/explore/sites/styles/neo-brutalism",
+      "kept": false,
+      "reason": "moodboard photos, no trend",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.ZZfSiSxdae5Eei_s.tmio4ehzApgJGpedCsbmEQIKyfkB6dttVPlsma2Kn14khCmW27lu9dd4MV0lxU6lGNOLNarb2lZFf_JW4IaY46_QD36XHgiKElsU1-z2WSbEE1_0jEBSqjenGPtGI9SbiCXtlCm4iRIxsf9WMANjdZ3jIzba_VGoJXS1EOCGoEfStH3-kfqJPjYdbXoIfJ9RT9iFJKmaKAQ19IEXh5pdRfv7WNAfjH55l4ORS2fJp4seZ13-1R9PMSNmS42YUGyz_89_nv55UNEmHXsmDMTnW365kFzpEbwFeAVyMZ7w6hOsvDSOJSaXRzamzutWkcLCCCoW4k5NVpeUC_jrDywUTHXItpZmbnyIVFEICS1_p8xq0C_BD_V8fSwl",
+      "trend": "neo brutalism",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.ZZfSiSxdae5Eei_s.tmio4ehzApgJGpedCsbmEQIKyfkB6dttVPlsma2Kn14khCmW27lu9dd4MV0lxU6lGNOLNarb2lZFf_JW4IaY46_QD36XHgiKElsU1-z2WSbEE1_0jEBSqjenGPtGI9SbiCXtlCm4iRIxsf9WMANjdZ3jIzba_VGoJXS1EOCGoEfStH3-kfqJPjYdbXoIfJ9RT9iFJKmaKAQ19IEXh5pdRfv7WNAfjH55l4ORS2fJp4seZ13-1R9PMSNmS42YUGyz_89_nv55UNEmHXsmDMTnW365kFzpEbwFeAVyMZ7w6hOsvDSOJSaXRzamzutWkcLCCCoW4k5NVpeUC_jrDywUTHXItpZmbnyIVFEICS1_p8xq0C_BD_V8fSwl",
+      "url": "https://mobbin.com/explore/sites/styles/neo-brutalism",
+      "kept": false,
+      "reason": "blog header art, no neo brutalist UI",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://c-p.rmcdn.net/56c2fb534ba6b7fd63894602/4351419/Screenshot-b03206e8-b41e-45f9-bf83-230d3a1a1fa4_readyscr_1024.jpg",
+      "trend": "neo brutalism",
+      "image": "https://c-p.rmcdn.net/56c2fb534ba6b7fd63894602/4351419/Screenshot-b03206e8-b41e-45f9-bf83-230d3a1a1fa4_readyscr_1024.jpg",
+      "url": "https://brutalweb.com/",
+      "kept": true,
+      "reason": "gallery of brutalist website screenshots",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://neobrutalism.com/opengraph-image.png",
+      "trend": "neo brutalism",
+      "image": "https://neobrutalism.com/opengraph-image.png",
+      "url": "https://neobrutalism.com/showcase",
+      "kept": true,
+      "reason": "yellow cards, black borders, hard shadows",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://neobrutalism.com/_next/image?url=https%3A%2F%2Fpub-5f7cbdfd9ffa4c838e386788f395f0c4.r2.dev%2Fshowcase%2Fadvibly.com.png&w=3840&q=75",
+      "trend": "neo brutalism",
+      "image": "https://neobrutalism.com/_next/image?url=https%3A%2F%2Fpub-5f7cbdfd9ffa4c838e386788f395f0c4.r2.dev%2Fshowcase%2Fadvibly.com.png&w=3840&q=75",
+      "url": "https://neobrutalism.com/showcase",
+      "kept": true,
+      "reason": "yellow block, thick outlines, offset shadow button",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://neobrutalism.com/_next/image?url=https%3A%2F%2Fpub-5f7cbdfd9ffa4c838e386788f395f0c4.r2.dev%2Fshowcase%2Fbrijeshmarch16.png&w=3840&q=75",
+      "trend": "neo brutalism",
+      "image": "https://neobrutalism.com/_next/image?url=https%3A%2F%2Fpub-5f7cbdfd9ffa4c838e386788f395f0c4.r2.dev%2Fshowcase%2Fbrijeshmarch16.png&w=3840&q=75",
+      "url": "https://neobrutalism.com/showcase",
+      "kept": true,
+      "reason": "yellow highlight tag, hard offset shadows",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://neobrutalism.com/_next/image?url=https%3A%2F%2Fpub-5f7cbdfd9ffa4c838e386788f395f0c4.r2.dev%2Fshowcase%2Fbuildersguild.space.png&w=3840&q=75",
+      "trend": "neo brutalism",
+      "image": "https://neobrutalism.com/_next/image?url=https%3A%2F%2Fpub-5f7cbdfd9ffa4c838e386788f395f0c4.r2.dev%2Fshowcase%2Fbuildersguild.space.png&w=3840&q=75",
+      "url": "https://neobrutalism.com/showcase",
+      "kept": true,
+      "reason": "yellow buttons with hard black shadows",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://framerusercontent.com/images/GWd5rWqjmodMKTesYmWpqWZbXnI.png",
+      "trend": "neo brutalism",
+      "image": "https://framerusercontent.com/images/GWd5rWqjmodMKTesYmWpqWZbXnI.png",
+      "url": "https://brutal-gallery.framer.website/",
+      "kept": false,
+      "reason": "text-only logo banner",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://framerusercontent.com/images/aGs0PrO9wdqZ2JRuURLxfcY.jpg",
+      "trend": "neo brutalism",
+      "image": "https://framerusercontent.com/images/aGs0PrO9wdqZ2JRuURLxfcY.jpg",
+      "url": "https://brutal-gallery.framer.website/",
+      "kept": false,
+      "reason": "minimal Swiss type, trend absent",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://www.downgraf.com/wp-content/uploads/2026/02/Neobrutalism-Web-Design-Examples.webp",
+      "trend": "neo brutalism",
+      "image": "https://www.downgraf.com/wp-content/uploads/2026/02/Neobrutalism-Web-Design-Examples.webp",
+      "url": "https://www.downgraf.com/inspiration/20-neobrutalism-web-design-examples-that-break-all-the-rules/",
+      "kept": true,
+      "reason": "neobrutalist graphic collage with bold shapes",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://www.downgraf.com/wp-content/uploads/2026/07/Live-TV-Streaming-Services-With-Local-Channels.webp",
+      "trend": "neo brutalism",
+      "image": "https://www.downgraf.com/wp-content/uploads/2026/07/Live-TV-Streaming-Services-With-Local-Channels.webp",
+      "url": "https://www.downgraf.com/inspiration/20-neobrutalism-web-design-examples-that-break-all-the-rules/",
+      "kept": false,
+      "reason": "generated living room photo, no trend",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://www.downgraf.com/wp-content/uploads/2026/06/Modular-Laser-Welding-Systems-Boost-Industrial-Manufacturing-Efficiency-900x600.webp",
+      "trend": "neo brutalism",
+      "image": "https://www.downgraf.com/wp-content/uploads/2026/06/Modular-Laser-Welding-Systems-Boost-Industrial-Manufacturing-Efficiency-900x600.webp",
+      "url": "https://www.downgraf.com/inspiration/20-neobrutalism-web-design-examples-that-break-all-the-rules/",
+      "kept": false,
+      "reason": "photo of laser cutting machine",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://www.downgraf.com/wp-content/uploads/2026/05/Leading-Video-Analytics-Companies-in-2026-900x600.webp",
+      "trend": "neo brutalism",
+      "image": "https://www.downgraf.com/wp-content/uploads/2026/05/Leading-Video-Analytics-Companies-in-2026-900x600.webp",
+      "url": "https://www.downgraf.com/inspiration/20-neobrutalism-web-design-examples-that-break-all-the-rules/",
+      "kept": false,
+      "reason": "analytics dashboard, trend absent",
+      "label": "correct"
+    },
+    {
+      "id": "neo-brutalism|https://brutalistwebsites.com/_img/raw.jpg",
+      "trend": "neo brutalism",
+      "image": "https://brutalistwebsites.com/_img/raw.jpg",
+      "url": "https://brutalistwebsites.com/",
+      "kept": true,
+      "reason": "raw brutalist web layout, bold type",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://mobbin.com/og_image.png?v=4.0",
+      "trend": "bento grid",
+      "image": "https://mobbin.com/og_image.png?v=4.0",
+      "url": "https://mobbin.com/explore/sites/categories/bento-grid",
+      "kept": true,
+      "reason": "bento-style card collage of app screenshots",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.I_nOmRjtNnalqxvg.o_Rs5oHvprk-gBaOPwrOzpL6a5Lf4ZEHo72sCJryIP2Qd1iAL6E7ms877meEi6NwqXfNLy_MeaFexSFiSUWxY5cD-3kQNN-6-RCJjQ5omr9zgBnsBVaz4nb4OSLDf9INNP0iTuWCloJovrhPxTqRVh3jOWGPtFpcaMwSujTZCdtdRH8DAj0sg1uldZuUjnS-Nk18UScVVIVnyPbneMiBE51o6i-b4rhWh17F4YO_xFNGkKHtJtivXqKrNVne-k0twPizv-PYiWussaxjTfTFoLDp_9PSkukItOMEorvnr39cs0kFvc59IGDKpdwzvLbNjMnnNTYyL2pDLMDicgAkuM-q3yJmQCuvz1JOZ3aRO9esMuT_1y9evzMD",
+      "trend": "bento grid",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.I_nOmRjtNnalqxvg.o_Rs5oHvprk-gBaOPwrOzpL6a5Lf4ZEHo72sCJryIP2Qd1iAL6E7ms877meEi6NwqXfNLy_MeaFexSFiSUWxY5cD-3kQNN-6-RCJjQ5omr9zgBnsBVaz4nb4OSLDf9INNP0iTuWCloJovrhPxTqRVh3jOWGPtFpcaMwSujTZCdtdRH8DAj0sg1uldZuUjnS-Nk18UScVVIVnyPbneMiBE51o6i-b4rhWh17F4YO_xFNGkKHtJtivXqKrNVne-k0twPizv-PYiWussaxjTfTFoLDp_9PSkukItOMEorvnr39cs0kFvc59IGDKpdwzvLbNjMnnNTYyL2pDLMDicgAkuM-q3yJmQCuvz1JOZ3aRO9esMuT_1y9evzMD",
+      "url": "https://mobbin.com/explore/sites/categories/bento-grid",
+      "kept": true,
+      "reason": "tiled photo grid with captions, bento-like layout",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.wpZ06TG7qfhwPUx-.ARCaqdc4g2pyarNj5ITbHEmiriFpBWsWeUNT2V4SdNAvxTB8xl01305TvyOlGnz_31BwadTgy2EvQOziWoaO_u4dLjfDBdOLcQbcEPjb5LoyjYwLhlW63WBpS86nBWm427X-Ca8IqHMuXsKMUcy4WzYmnLBzGAS_p568nKK7DuEDMSiWVNSLChkDRHGhhEQVvQGGorr8Jm_HrRdJ4JSME-wr3vttgP2vNMmPPZaf3bGfXXEmqaXHuG9j0m576ky8kcUsX7Qdh3x1Y4m9m45b3lkSUDOM7yeb3GJ9IOA6s_6i1JKrEWSklfRRpiFYQ044GNo5z6OfPi1MrrjUlfvobTgbyTXI5hk1FEcio6KLqKQFQSWcb3D5g2Od",
+      "trend": "bento grid",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.wpZ06TG7qfhwPUx-.ARCaqdc4g2pyarNj5ITbHEmiriFpBWsWeUNT2V4SdNAvxTB8xl01305TvyOlGnz_31BwadTgy2EvQOziWoaO_u4dLjfDBdOLcQbcEPjb5LoyjYwLhlW63WBpS86nBWm427X-Ca8IqHMuXsKMUcy4WzYmnLBzGAS_p568nKK7DuEDMSiWVNSLChkDRHGhhEQVvQGGorr8Jm_HrRdJ4JSME-wr3vttgP2vNMmPPZaf3bGfXXEmqaXHuG9j0m576ky8kcUsX7Qdh3x1Y4m9m45b3lkSUDOM7yeb3GJ9IOA6s_6i1JKrEWSklfRRpiFYQ044GNo5z6OfPi1MrrjUlfvobTgbyTXI5hk1FEcio6KLqKQFQSWcb3D5g2Od",
+      "url": "https://mobbin.com/explore/sites/categories/bento-grid",
+      "kept": true,
+      "reason": "bento-style grid of product screenshots, mixed sizes",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.eZZgaG5ZcKVQWKfy.ly985fdJwWHl2Gu32-GMw7ub8gZwr6DlWc9Qd2La44JnlC3lJcDhIV_34bZTYa1tI2dqNRRh0K4D8Z7v54owISJiy4p_PiYvcHYV2yljxRxZgfjCYBZa0FpyFBvisVi8X24wgiX8KW2l-StFvlvTFn_dKOHgiuEAHKiSdjV9PAEmFVK8EaYhpSmzz52pPZ7XStCt_d21zw6HAh9Nj-UeqfdA9tBloY5U7TN8Grca-LNU2wfPPyFlapWHM6WjkNsaiwIMPe1CQcUqT2eLyf9GQZ5AldfdY-a7h3H4Lh6mekpNlo4sqd1-BKHmBzOl9OYebPqqP78WEwZwjxVZLneTfnR321uEpRU31GtW7SDGI8rduLrm4bdkppWk",
+      "trend": "bento grid",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.eZZgaG5ZcKVQWKfy.ly985fdJwWHl2Gu32-GMw7ub8gZwr6DlWc9Qd2La44JnlC3lJcDhIV_34bZTYa1tI2dqNRRh0K4D8Z7v54owISJiy4p_PiYvcHYV2yljxRxZgfjCYBZa0FpyFBvisVi8X24wgiX8KW2l-StFvlvTFn_dKOHgiuEAHKiSdjV9PAEmFVK8EaYhpSmzz52pPZ7XStCt_d21zw6HAh9Nj-UeqfdA9tBloY5U7TN8Grca-LNU2wfPPyFlapWHM6WjkNsaiwIMPe1CQcUqT2eLyf9GQZ5AldfdY-a7h3H4Lh6mekpNlo4sqd1-BKHmBzOl9OYebPqqP78WEwZwjxVZLneTfnR321uEpRU31GtW7SDGI8rduLrm4bdkppWk",
+      "url": "https://mobbin.com/explore/sites/categories/bento-grid",
+      "kept": true,
+      "reason": "grid of product screenshots in rounded tiles",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://assets.onepagelove.com/cdn-cgi/image/trim=5690;0;4307;0,width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/10/opl-screenshot-congrue-1790940047675-desktop.jpg",
+      "trend": "bento grid",
+      "image": "https://assets.onepagelove.com/cdn-cgi/image/trim=5690;0;4307;0,width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/10/opl-screenshot-congrue-1790940047675-desktop.jpg",
+      "url": "https://onepagelove.com/section/bento-grid",
+      "kept": true,
+      "reason": "bento feature grid with mixed-size cells",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://bentogrids.com/images/og.png",
+      "trend": "bento grid",
+      "image": "https://bentogrids.com/images/og.png",
+      "url": "https://bentogrids.com/",
+      "kept": false,
+      "reason": "logo banner, no bento layout visible",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://uploads-ssl.webflow.com/5ff65128d64d8f034c3f54ff/6438c731a73b1ffa77a11aca_New%2BRelume.png",
+      "trend": "bento grid",
+      "image": "https://uploads-ssl.webflow.com/5ff65128d64d8f034c3f54ff/6438c731a73b1ffa77a11aca_New%2BRelume.png",
+      "url": "https://webflow.com/made-in-webflow/bento",
+      "kept": true,
+      "reason": "bento-style card grid of varied sizes",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://uploads-ssl.webflow.com/5feb500f09a3ad420865076c/60f5e49da19cf3145803f169_CC4CFF53-EF5D-4C39-8D5F-2080A775FD1E.jpg",
+      "trend": "bento grid",
+      "image": "https://uploads-ssl.webflow.com/5feb500f09a3ad420865076c/60f5e49da19cf3145803f169_CC4CFF53-EF5D-4C39-8D5F-2080A775FD1E.jpg",
+      "url": "https://webflow.com/made-in-webflow/bento",
+      "kept": false,
+      "reason": "single black-and-white portrait, no trend",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://uploads-ssl.webflow.com/65e61a1d35c7443508c143ad/65f8238523b9242a94e2ae02_bento-grid-showcase.jpg",
+      "trend": "bento grid",
+      "image": "https://uploads-ssl.webflow.com/65e61a1d35c7443508c143ad/65f8238523b9242a94e2ae02_bento-grid-showcase.jpg",
+      "url": "https://webflow.com/made-in-webflow/bento",
+      "kept": true,
+      "reason": "clear bento card layout with mixed tiles",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://madeonweb.com/og.jpg",
+      "trend": "bento grid",
+      "image": "https://madeonweb.com/og.jpg",
+      "url": "https://madeonweb.com/sections/layout/bento-grid/",
+      "kept": true,
+      "reason": "site listing with website screenshot thumbnails",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://ss.madeonweb.com/0003/0003-01-04-720px.png?v=2506231942",
+      "trend": "bento grid",
+      "image": "https://ss.madeonweb.com/0003/0003-01-04-720px.png?v=2506231942",
+      "url": "https://madeonweb.com/sections/layout/bento-grid/",
+      "kept": true,
+      "reason": "bento-style tile grid of photos with text",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://ss.madeonweb.com/0004/0004-01-04-720px.png?v=2506231942",
+      "trend": "bento grid",
+      "image": "https://ss.madeonweb.com/0004/0004-01-04-720px.png?v=2506231942",
+      "url": "https://madeonweb.com/sections/layout/bento-grid/",
+      "kept": true,
+      "reason": "asymmetric tile grid of case studies",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://ss.madeonweb.com/0008/0008-01-05-720px.png?v=2506231943",
+      "trend": "bento grid",
+      "image": "https://ss.madeonweb.com/0008/0008-01-05-720px.png?v=2506231943",
+      "url": "https://madeonweb.com/sections/layout/bento-grid/",
+      "kept": true,
+      "reason": "asymmetric product tile grid layout",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://muz.li/images/collections/bento-grid.jpg",
+      "trend": "bento grid",
+      "image": "https://muz.li/images/collections/bento-grid.jpg",
+      "url": "https://muz.li/inspiration/bento-grid/",
+      "kept": true,
+      "reason": "bento feature cards in varied sizes",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/components/M7X0yQ1yEy4AtxnwCSY4/bento-card-IvZjjwXnUegEAQXVylQDUHCGzkh6g6",
+      "trend": "bento grid",
+      "image": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/components/M7X0yQ1yEy4AtxnwCSY4/bento-card-IvZjjwXnUegEAQXVylQDUHCGzkh6g6",
+      "url": "https://muz.li/inspiration/bento-grid/",
+      "kept": true,
+      "reason": "dark bento cards with mixed tile sizes",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://images.ui8.net/uploads/thumbnail_1730891167529.png",
+      "trend": "bento grid",
+      "image": "https://images.ui8.net/uploads/thumbnail_1730891167529.png",
+      "url": "https://muz.li/inspiration/bento-grid/",
+      "kept": true,
+      "reason": "bento UI kit showing grid compositions",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://framerusercontent.com/images/giEpynftq4PwGG8L9wH7ZKGaQ.png",
+      "trend": "bento grid",
+      "image": "https://framerusercontent.com/images/giEpynftq4PwGG8L9wH7ZKGaQ.png",
+      "url": "https://muz.li/inspiration/bento-grid/",
+      "kept": true,
+      "reason": "bento card kit with varied tile sizes",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://www.a1.gallery/og?type=combo&slug=bento-design",
+      "trend": "bento grid",
+      "image": "https://www.a1.gallery/og?type=combo&slug=bento-design",
+      "url": "https://www.a1.gallery/websites/bento-design",
+      "kept": true,
+      "reason": "bento website collage gallery",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://www.a1.gallery/_next/image?url=https%3A%2F%2Fimg.a1.gallery%2Fwebsites%2Fwannathis%2Fderived%2Fthumb-v2-desktop-full-attm03sO9fwM2AgAD.webp&w=1920&q=82",
+      "trend": "bento grid",
+      "image": "https://www.a1.gallery/_next/image?url=https%3A%2F%2Fimg.a1.gallery%2Fwebsites%2Fwannathis%2Fderived%2Fthumb-v2-desktop-full-attm03sO9fwM2AgAD.webp&w=1920&q=82",
+      "url": "https://www.a1.gallery/websites/bento-design",
+      "kept": true,
+      "reason": "bento-style modular card layout",
+      "label": "correct"
+    },
+    {
+      "id": "bento-grid|https://www.a1.gallery/_next/image?url=https%3A%2F%2Fimg.a1.gallery%2Fwebsites%2Fdousan-miao%2Fderived%2Fthumb-v2-desktop-full-att1E9l4KG1OAdCmu.webp&w=1920&q=82",
+      "trend": "bento grid",
+      "image": "https://www.a1.gallery/_next/image?url=https%3A%2F%2Fimg.a1.gallery%2Fwebsites%2Fdousan-miao%2Fderived%2Fthumb-v2-desktop-full-att1E9l4KG1OAdCmu.webp&w=1920&q=82",
+      "url": "https://www.a1.gallery/websites/bento-design",
+      "kept": true,
+      "reason": "bento portfolio grid of modular cards",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://mobbin.com/og_image.png?v=4.0",
+      "trend": "kinetic typography",
+      "image": "https://mobbin.com/og_image.png?v=4.0",
+      "url": "https://mobbin.com/explore/sites/styles/kinetic-typography",
+      "kept": false,
+      "reason": "marketing banner with static app screenshots, no kinetic type",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.ME9w12xts7NSQVBo.IQrsa6w19njd6njontMjg7jmDCkAd9w83pwmW2MMF3XtwqsDn2K0ZBh51fCsfAlvhWOt3RCXgMFSgQKfJSvCxGHyPsBsDQZEYpoXO0RyG6nim1lcndbN2sJf_iVtq7uxjzIlzKeHLHtKi8e-7AwP2SiJd9mdQ1Lxrgv0QHgJs_FSx3H-hQ5aJcsrKne2BQQX8xLOskROCf8CMC2PI6PAuTu6WAph53kQ1N0S78Yz1WwXJATIfamdeAfhym0a__wjQ4FKLDFqbP8sjc8S47KtSfydNIzhwL94IHKcqfo4cQXvY8iDVa0LX-BSqyRQeLi7D2vZ41TxaPUg4_v8ui0bP1I1g6Oc20wL7JaPX7XbUKTz8Nyuxq07aEgkQ3lipmDMkraQrXg71tv492T-ra7jeHSzEXXNr2m-NCLe_1sv-TX9Kw",
+      "trend": "kinetic typography",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.ME9w12xts7NSQVBo.IQrsa6w19njd6njontMjg7jmDCkAd9w83pwmW2MMF3XtwqsDn2K0ZBh51fCsfAlvhWOt3RCXgMFSgQKfJSvCxGHyPsBsDQZEYpoXO0RyG6nim1lcndbN2sJf_iVtq7uxjzIlzKeHLHtKi8e-7AwP2SiJd9mdQ1Lxrgv0QHgJs_FSx3H-hQ5aJcsrKne2BQQX8xLOskROCf8CMC2PI6PAuTu6WAph53kQ1N0S78Yz1WwXJATIfamdeAfhym0a__wjQ4FKLDFqbP8sjc8S47KtSfydNIzhwL94IHKcqfo4cQXvY8iDVa0LX-BSqyRQeLi7D2vZ41TxaPUg4_v8ui0bP1I1g6Oc20wL7JaPX7XbUKTz8Nyuxq07aEgkQ3lipmDMkraQrXg71tv492T-ra7jeHSzEXXNr2m-NCLe_1sv-TX9Kw",
+      "url": "https://mobbin.com/explore/sites/styles/kinetic-typography",
+      "kept": false,
+      "reason": "static font specimen, no motion or kinetic type",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.dWFV71spYCbwwSse.TLU91k5OTOGTbpiy2F7vfoV1zsq69z52TrmlsrShpCpKGLtRG-4NeoWLxQmAOcVQpJwKjQgwSooxsoKD3pcHK6XGMtUpAqiHdCsSUssA01dPLNgkHavZBs9bSQdicxfYrwvnD2YMK0Zzn2RVqhmt9TizrOZC03t7FXpXfoaMpOvcLr2x-O__mRxhEu5AB5IJ7x4NqghOO-GW1e-uSfX1jiTFDgYVAYbrRfU481rpIOnx4hsOL_s6dMW2ZyYNA5UAnXQrYj2UbiuA8LxTmP6xqhjHEjbqA8lyyRpvPHl9kO99yigHYwGT2mqg_168vIWfKfk99SQSQHL69-O5XCBegwAiaajbmSwTSipDkm4zBcE3Nowr1OP86WWj",
+      "trend": "kinetic typography",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.dWFV71spYCbwwSse.TLU91k5OTOGTbpiy2F7vfoV1zsq69z52TrmlsrShpCpKGLtRG-4NeoWLxQmAOcVQpJwKjQgwSooxsoKD3pcHK6XGMtUpAqiHdCsSUssA01dPLNgkHavZBs9bSQdicxfYrwvnD2YMK0Zzn2RVqhmt9TizrOZC03t7FXpXfoaMpOvcLr2x-O__mRxhEu5AB5IJ7x4NqghOO-GW1e-uSfX1jiTFDgYVAYbrRfU481rpIOnx4hsOL_s6dMW2ZyYNA5UAnXQrYj2UbiuA8LxTmP6xqhjHEjbqA8lyyRpvPHl9kO99yigHYwGT2mqg_168vIWfKfk99SQSQHL69-O5XCBegwAiaajbmSwTSipDkm4zBcE3Nowr1OP86WWj",
+      "url": "https://mobbin.com/explore/sites/styles/kinetic-typography",
+      "kept": false,
+      "reason": "static font specimen page, no kinetic type",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.SdawinQJh_eHQWzS.JlMZzlnaDsedSCDsiqqFA6hfFBNGBq-FwBbqyH_LakKVlVql0T_p15vTa2HfQCfCuX0pUppl677fX-SmWqeNrIdttOtpftsB9pgFejJoDTNqkICSa-OpTEaORjPqE98PnAR63qtYBorCp7zF-v-AJ0FwASBuB1HZEZsT2EXMMx1xGonMZDtamuUldcvRNfjxTXvZP7QUUmz7FpGgkLaLFhE5Gdn-GFGGV_nBEIWksV1WRuUkv9n7qjjimBK0e-V1ZXm3M6ydjKABLG3hpBGnABN_F0bg5MtD-aRcuOdjdjzBbfFxWbg-cYvolQBfQ4-lIinbUtePiYnyMzH34Kz4Eqt_ruTI9fqyj_Fo5SkxwAWZ55fFmbz-oQVMchXRGSJSeHhvpzqxJmlHEazYwWbtV2BfcQwc20x-6JB5rcKHIwok",
+      "trend": "kinetic typography",
+      "image": "https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.SdawinQJh_eHQWzS.JlMZzlnaDsedSCDsiqqFA6hfFBNGBq-FwBbqyH_LakKVlVql0T_p15vTa2HfQCfCuX0pUppl677fX-SmWqeNrIdttOtpftsB9pgFejJoDTNqkICSa-OpTEaORjPqE98PnAR63qtYBorCp7zF-v-AJ0FwASBuB1HZEZsT2EXMMx1xGonMZDtamuUldcvRNfjxTXvZP7QUUmz7FpGgkLaLFhE5Gdn-GFGGV_nBEIWksV1WRuUkv9n7qjjimBK0e-V1ZXm3M6ydjKABLG3hpBGnABN_F0bg5MtD-aRcuOdjdjzBbfFxWbg-cYvolQBfQ4-lIinbUtePiYnyMzH34Kz4Eqt_ruTI9fqyj_Fo5SkxwAWZ55fFmbz-oQVMchXRGSJSeHhvpzqxJmlHEazYwWbtV2BfcQwc20x-6JB5rcKHIwok",
+      "url": "https://mobbin.com/explore/sites/styles/kinetic-typography",
+      "kept": false,
+      "reason": "static editorial type, no kinetic motion visible",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://cdn.prod.website-files.com/697cb476e2ffb76979d17a2e/697cb8552efe70179009338d_gsap.png",
+      "trend": "kinetic typography",
+      "image": "https://cdn.prod.website-files.com/697cb476e2ffb76979d17a2e/697cb8552efe70179009338d_gsap.png",
+      "url": "https://webflow.com/made-in-webflow/kinetic%20typography",
+      "kept": true,
+      "reason": "particle-dissolved animated type with GSAP motion",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://cdn.prod.website-files.com/6782c45490d93108bfa626b9/6ab2cae403990e54eb9470bc_Thumb.png",
+      "trend": "kinetic typography",
+      "image": "https://cdn.prod.website-files.com/6782c45490d93108bfa626b9/6ab2cae403990e54eb9470bc_Thumb.png",
+      "url": "https://webflow.com/made-in-webflow/kinetic%20typography",
+      "kept": true,
+      "reason": "animated website with large kinetic type and brush swipes",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://cdn.prod.website-files.com/64d35a5049b59c8ba0b2d81d/686e84f0f5baf11f82d1e30b_651f296fa20c5481950c866d_poison%2520webclip.png",
+      "trend": "kinetic typography",
+      "image": "https://cdn.prod.website-files.com/64d35a5049b59c8ba0b2d81d/686e84f0f5baf11f82d1e30b_651f296fa20c5481950c866d_poison%2520webclip.png",
+      "url": "https://webflow.com/made-in-webflow/kinetic%20typography",
+      "kept": false,
+      "reason": "logo only, not a kinetic typography UI",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://theanimatedweb.com/images/social.jpg",
+      "trend": "kinetic typography",
+      "image": "https://theanimatedweb.com/images/social.jpg",
+      "url": "https://theanimatedweb.com/collection/typography/",
+      "kept": false,
+      "reason": "static logo banner, no motion visible",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://theanimatedweb.com/media/7faf49b6-animation.jpg",
+      "trend": "kinetic typography",
+      "image": "https://theanimatedweb.com/media/7faf49b6-animation.jpg",
+      "url": "https://theanimatedweb.com/collection/typography/",
+      "kept": true,
+      "reason": "animated frames of motion-driven type forms",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://theanimatedweb.com/media/c082f3f8-animation.jpg",
+      "trend": "kinetic typography",
+      "image": "https://theanimatedweb.com/media/c082f3f8-animation.jpg",
+      "url": "https://theanimatedweb.com/collection/typography/",
+      "kept": true,
+      "reason": "warped wave-distorted letters suggesting kinetic type motion",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://theanimatedweb.com/media/d38c4519-animation.jpg",
+      "trend": "kinetic typography",
+      "image": "https://theanimatedweb.com/media/d38c4519-animation.jpg",
+      "url": "https://theanimatedweb.com/collection/typography/",
+      "kept": true,
+      "reason": "animated word overflowing a 3D sphere, kinetic type",
+      "label": "correct"
+    },
+    {
+      "id": "kinetic-typography|https://www.a1.gallery/og?type=style&slug=typographic",
+      "trend": "kinetic typography",
+      "image": "https://www.a1.gallery/og?type=style&slug=typographic",
+      "url": "https://www.a1.gallery/style/typographic",
+      "kept": true,
+      "reason": "gallery of typographic websites with expressive type layouts",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://berrry.app/apps/webstyles/screenshot/v/2",
+      "trend": "claymorphism",
+      "image": "https://berrry.app/apps/webstyles/screenshot/v/2",
+      "url": "https://webstyles.berrry.app/",
+      "kept": false,
+      "reason": "neobrutalism showcase, claymorphism not shown",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://screenshots.webflow.com/sites/635fac34d0b4fd3ea510511e/20240713091902_064dbf67484cd0488e640a7c437c4b54.png",
+      "trend": "claymorphism",
+      "image": "https://screenshots.webflow.com/sites/635fac34d0b4fd3ea510511e/20240713091902_064dbf67484cd0488e640a7c437c4b54.png",
+      "url": "https://webflow.com/made-in-webflow/clay",
+      "kept": true,
+      "reason": "clay-style 3D globe with soft rounded shapes",
+      "label": "wrong"
+    },
+    {
+      "id": "claymorphism|https://cdn.prod.website-files.com/633b1f858d286201733fede1/67b5df3568a33cdb2c462314_67b5dcb02de565a2a473bdf4_B3C72CA3-1B8B-40CC-92AC-88753C5CB37E_1_102_o.jpeg",
+      "trend": "claymorphism",
+      "image": "https://cdn.prod.website-files.com/633b1f858d286201733fede1/67b5df3568a33cdb2c462314_67b5dcb02de565a2a473bdf4_B3C72CA3-1B8B-40CC-92AC-88753C5CB37E_1_102_o.jpeg",
+      "url": "https://webflow.com/made-in-webflow/clay",
+      "kept": true,
+      "reason": "soft puffy 3D-like orange blob character",
+      "label": "wrong"
+    },
+    {
+      "id": "claymorphism|https://cdn.prod.website-files.com/61caefd7f08b9f07790ebdb7/66edc4243f5e4e3ff4a81dcc_ParvenuHomepage.jpeg",
+      "trend": "claymorphism",
+      "image": "https://cdn.prod.website-files.com/61caefd7f08b9f07790ebdb7/66edc4243f5e4e3ff4a81dcc_ParvenuHomepage.jpeg",
+      "url": "https://webflow.com/made-in-webflow/clay",
+      "kept": false,
+      "reason": "flat app UI, no clay puffy styling",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://cdn.prod.website-files.com/60c17f8f0b635574198db07c/66edc231de66f74376780b9f_PatrickHeadshot.jpg",
+      "trend": "claymorphism",
+      "image": "https://cdn.prod.website-files.com/60c17f8f0b635574198db07c/66edc231de66f74376780b9f_PatrickHeadshot.jpg",
+      "url": "https://webflow.com/made-in-webflow/clay",
+      "kept": false,
+      "reason": "photo of a person, not UI",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://v-1.design/opengraph-image",
+      "trend": "claymorphism",
+      "image": "https://v-1.design/opengraph-image",
+      "url": "https://v-1.design/library/style/claymorphism",
+      "kept": false,
+      "reason": "text-only banner, no clay trend",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://v1-design-library-media.s3.us-east-1.amazonaws.com/vid/22168765-3007-4423-a7bd-84adda8e4cba.jpg",
+      "trend": "claymorphism",
+      "image": "https://v1-design-library-media.s3.us-east-1.amazonaws.com/vid/22168765-3007-4423-a7bd-84adda8e4cba.jpg",
+      "url": "https://v-1.design/library/style/claymorphism",
+      "kept": false,
+      "reason": "text-only banner, duplicate of 5",
+      "label": "unsure"
+    },
+    {
+      "id": "claymorphism|https://v1-design-library-media.s3.us-east-1.amazonaws.com/vid/758a4d55-42f0-444e-92e2-931fe25692cb.jpg",
+      "trend": "claymorphism",
+      "image": "https://v1-design-library-media.s3.us-east-1.amazonaws.com/vid/758a4d55-42f0-444e-92e2-931fe25692cb.jpg",
+      "url": "https://v-1.design/library/style/claymorphism",
+      "kept": true,
+      "reason": "soft rounded clay-like mascot and puffy UI",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://v1-design-library-media.s3.us-east-1.amazonaws.com/vid/b00018eb-ac89-42f2-934d-73bf80fd1d0c.jpg",
+      "trend": "claymorphism",
+      "image": "https://v1-design-library-media.s3.us-east-1.amazonaws.com/vid/b00018eb-ac89-42f2-934d-73bf80fd1d0c.jpg",
+      "url": "https://v-1.design/library/style/claymorphism",
+      "kept": true,
+      "reason": "clay 3D bunny with soft rounded UI",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://ayo-oss.github.io/godrichstory-demo/claymorphism-landing/poster.png",
+      "trend": "claymorphism",
+      "image": "https://ayo-oss.github.io/godrichstory-demo/claymorphism-landing/poster.png",
+      "url": "https://godrichstory.com/en/posts/claymorphism-landing/",
+      "kept": true,
+      "reason": "puffy soft-shadow claymorphic card and blobs",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://ayo-oss.github.io/godrichstory-demo/claymorphism-landing/01-hero-clay/poster.png",
+      "trend": "claymorphism",
+      "image": "https://ayo-oss.github.io/godrichstory-demo/claymorphism-landing/01-hero-clay/poster.png",
+      "url": "https://godrichstory.com/en/posts/claymorphism-landing/",
+      "kept": false,
+      "reason": "duplicate of image 9",
+      "label": "correct"
+    },
+    {
+      "id": "claymorphism|https://ayo-oss.github.io/godrichstory-demo/claymorphism-landing/02-nav-clay/poster.png",
+      "trend": "claymorphism",
+      "image": "https://ayo-oss.github.io/godrichstory-demo/claymorphism-landing/02-nav-clay/poster.png",
+      "url": "https://godrichstory.com/en/posts/claymorphism-landing/",
+      "kept": true,
+      "reason": "puffy inset nav with soft clay shadows",
+      "label": "correct"
+    }
+  ]
+}

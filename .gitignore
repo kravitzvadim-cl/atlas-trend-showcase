@@ -1,0 +1,31 @@
+node_modules
+.next
+.env
+.env*.local
+next-env.d.ts
+*.tsbuildinfo
+.impeccable/review
+docs/runs/
+
+# hero video working files (music licence: no standalone redistribution)
+/video/
+
+# Public showcase exclusions
+.env
+.env.*
+!.env.example
+!.env.local.example
+node_modules/
+.next/
+dist/
+.data/
+.runtime/
+*.db
+*.sqlite*
+*.pem
+*.key
+credentials*.json
+token*.json
+local-config.js
+.DS_Store
+__pycache__/

@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "liquid-glass",
+    "keyword": "liquid glass",
+    "set": "AT-001",
+    "colours": [
+      "#D4D6DC",
+      "#363737",
+      "#89E4D6",
+      "#010101",
+      "#1A1A1B",
+      "#F7C357"
+    ]
+  },
+  {
+    "slug": "neo-brutalism",
+    "keyword": "neo brutalism",
+    "set": "AT-002",
+    "colours": [
+      "#E5E5E4",
+      "#FDFCFC",
+      "#363636",
+      "#1A1A1A",
+      "#FACC27",
+      "#0000FD"
+    ]
+  },
+  {
+    "slug": "bento-grid",
+    "keyword": "bento grid",
+    "set": "AT-003",
+    "colours": [
+      "#FBFBFA",
+      "#DBDBDB",
+      "#161616",
+      "#1A7578",
+      "#C6BC89",
+      "#D9FF90"
+    ]
+  },
+  {
+    "slug": "kinetic-typography",
+    "keyword": "kinetic typography",
+    "set": "AT-004",
+    "colours": [
+      "#1A1C22",
+      "#3455A2",
+      "#E9895B",
+      "#FBFCFB",
+      "#572B27",
+      "#CD3535"
+    ]
+  },
+  {
+    "slug": "claymorphism",
+    "keyword": "claymorphism",
+    "set": "AT-005",
+    "colours": [
+      "#FEF6E7",
+      "#F7D9B8",
+      "#24244A",
+      "#FFD23F",
+      "#FD7739",
+      "#17141A"
+    ]
+  }
+]
